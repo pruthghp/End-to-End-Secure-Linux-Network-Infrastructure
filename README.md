@@ -61,17 +61,17 @@ This project showcases the design and implementation of a secure, scalable, and 
 
 🛠️ Tools & Technologies
 
-Category	         :         Tools/Technologies //
+Category	         :         Tools/Technologies <br/>
 
-OS	               :         Ubuntu Server //
-DNS	               :         Bind9 //
-DHCP	             :         isc-dhcp-server //
-Web Server	       :         Apache2 //
-VPN	               :         StrongSwan //
-Backup & Transfer	 :         Bash, SCP //
-File Sharing	     :         NFS //
-Firewall	         :         iptables, ufw //
-Security Testing	 :         Scapy //
+OS	               :         Ubuntu Server <br/>
+DNS	               :         Bind9 <br/>
+DHCP	             :         isc-dhcp-server <br/>
+Web Server	       :         Apache2 <br/>
+VPN	               :         StrongSwan <br/>
+Backup & Transfer	 :         Bash, SCP <br/>
+File Sharing	     :         NFS <br/>
+Firewall	         :         iptables, ufw <br/>
+Security Testing	 :         Scapy <br/>
 
 📎 License
 This project is for educational purposes only. No license is attached.
